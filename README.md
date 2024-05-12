@@ -7,6 +7,7 @@ The technologies and tools used are: Android, Kotlin, Jetpack Compose, Navigatio
 
 # Screens
 
-<img src="./screenshots/screen1.jpg" alt="screen1" width="200" height="500"/>
+<img src="./screenshots/screen1.jpg" alt="screen1" width="250" height="500"/>
 
-![alt text](https://github.com/luclucas/News-App/blob/main/screenshots/screen2.jpg)
+<img src="./screenshots/screen1.jpg" alt="screen2" width="250" height="500"/>
+
