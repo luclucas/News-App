@@ -1,5 +1,4 @@
 # News-App
-# News-App
 
 A simple app that displays the latest news from Brazil or from a user search.
 It consumes the [News Api](https://newsapi.org/)).
